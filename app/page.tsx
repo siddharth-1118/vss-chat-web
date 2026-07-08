@@ -19,7 +19,8 @@ export default function LandingPage() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
           <a
-            href="https://github.com/siddharth-1118/vss-chat/releases/latest"
+            href="/vss-chat.apk"
+            download="vss-chat.apk"
             className="px-8 py-4 bg-green-600 hover:bg-green-500 text-white font-bold rounded-full transition-all transform hover:scale-105 shadow-[0_0_20px_rgba(34,197,94,0.3)]"
           >
             Download Android APK
